@@ -31,7 +31,7 @@ source(file="./ddpcrquant_functions_qx200.R")
 #' the 3 functions should have appeared in the Environment tab at the right
 
 ###############################################################################
-####              ddpcRquant v2 changelog (2020 - 10 - 16)               ####
+####              ddpcRquant [ggplot edition] changelog (2020 - 10 - 16)   ####
 ####                                                                       ####
 ####                           - Stevin Wilson, Ph.D. (Clemson University) ####
 ###############################################################################
