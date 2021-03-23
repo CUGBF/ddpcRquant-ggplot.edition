@@ -4,6 +4,8 @@ ddpcRquant is an R implementation of the algorithm described by Trypsteen et al.
 
 ddpcRquant v2 utilizes ggplot2 by default to generate static plots (with option available to utilize R base plotting library). Additionally, ddpcRquant v2 generates additional static and interactive plots (using Plotly), and includes updated installation procedure for dependencies.
 
+ddpcRquant v1 is available for download at this [link](https://ddpcrquant.ugent.be/)
+
 ## Installation and Usage
 
 Save a copy of the R scripts in this repository, to the folder containing the head file (.csv format) and the amplitude files (.csv format). Please avoid having other files in that folder. 
