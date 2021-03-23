@@ -1,8 +1,8 @@
-# ddpcRquant v2
+# ddpcRquant [ggplot edition]
 
 ddpcRquant is an R implementation of the algorithm described by Trypsteen et al., 2015, to calculate the threshold value for the quantification of DNA templates in a droplet digital PCR (ddPCR) experiment.
 
-ddpcRquant v2 utilizes ggplot2 by default to generate static plots (with option available to utilize R base plotting library). Additionally, ddpcRquant v2 generates additional static and interactive plots (using Plotly), and includes updated installation procedure for dependencies.
+ddpcRquant [ggplot edition] utilizes ggplot2 by default to generate static plots (with option available to utilize R base plotting library). Additionally, ddpcRquant [ggplot edition] generates additional static and interactive plots (using Plotly), and includes updated installation procedure for dependencies.
 
 ddpcRquant v1 is available for download at this [link](https://ddpcrquant.ugent.be/)
 
@@ -12,7 +12,7 @@ Save a copy of the R scripts in this repository, to the folder containing the he
 
 The installation steps for the dependencies and the usage instructions are included in the guide R script. The scripts in this repository are intended to be used only with data generated using Bio-Rad QX200.
 
-## ddpcRquant v2 changelog (2020 - 10 - 16)
+## ddpcRquant [ggplot edition] changelog (2020 - 10 - 16)
 
 - Fixed installation instructions for the dpcR package.
 - Ability to specify the seed for the random number generator which is used in the analysis.
